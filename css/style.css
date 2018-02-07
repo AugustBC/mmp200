@@ -17,4 +17,12 @@ header a{
 
 nav li{
 	list-style-type: none;
+	display: inline-block;
+	margin: 7px;
+}
+
+nav a{
+	border: 1px solid #32CD32;
+	text-decoration: none;
+	padding: 5px;
 }
