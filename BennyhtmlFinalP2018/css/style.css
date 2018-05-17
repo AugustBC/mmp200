@@ -1,0 +1,100 @@
+.color {
+	text-align: center;
+	color: white;
+	background-color: red;
+	margin: 0;
+	padding: 5px; 
+}
+
+.main_img {
+	width: 40%;
+	margin: 0 auto;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	font-size: 21px;
+}
+
+.stages {
+	margin-top: 4%;
+}
+
+.stage1 {
+	height: 200px;
+	text-align: center;
+	background: #7b7d79;
+	display: flex;	
+	flex-direction: column;
+	justify-content:center;
+}
+
+.stage2 { 
+	height: 200px;
+	text-align: center;
+	background: #60615f;
+	display: flex;	
+	flex-direction: column;
+	justify-content:center;
+}
+
+.stage3 {
+	height: 200px;
+	text-align: center;
+	background: #353634;	
+	display: flex;	
+	flex-direction: column;
+	justify-content:center;
+}
+
+.stage4 {
+	height: 200px;
+	text-align: center;
+	background: red;	
+	display: flex;	
+	flex-direction: column;
+	justify-content:center;
+}
+
+.stages a {
+	text-decoration: none;
+	font-size: 55px;
+}
+
+footer {
+	background-color: #808080;
+	color: white;
+	text-align: center;
+	margin-top: 20px; 
+}
+
+@media only screen and (max-width: 600px) {
+}
+
+.navbar {
+	background-color: black;
+}
+
+#navbarSupportedContent a {
+	color: #fff;
+}
+
+h1 {
+	text-align: center;
+}
+
+#navbarSupportedContent a:hover {
+	color: #fff;
+}
+
+.navbar-brand img {
+	width: 40%;
+}
+
+.stage1 a, .stage2 a, .stage3 a, .stage4 a {
+	color:white;
+	line-height: 1.2em;
+}
+
+.img-responsive {
+	width: 100%;
+}
